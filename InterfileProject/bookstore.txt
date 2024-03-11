@@ -1,0 +1,4 @@
+Author:			Title:		Year:	Price:		Category:
+CAY S Horstmann 	Core Java	2020	R 450.0		IT
+Allen B. Downey 	Think Java	2018	R 760.0		Software Development
+Mario Fusco		 Java 8  	2014	R 380.0		Computer Science

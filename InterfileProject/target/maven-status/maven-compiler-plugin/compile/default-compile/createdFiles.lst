@@ -1,0 +1,11 @@
+com\mycompany\interfileproject\resources\JakartaEE91Resource.class
+com\mycompany\interfileproject\Author\Model\Author.class
+com\mycompany\interfileproject\Book\Model\Book.class
+com\mycompany\interfileproject\FileReader\FileReaderClass.class
+com\mycompany\interfileproject\Servlets\AuthorServlet.class
+com\mycompany\interfileproject\Servlets\BookServlet.class
+com\mycompany\interfileproject\Author\Dao\AuthorDAO.class
+com\mycompany\interfileproject\Book\Dao\BookDAO.class
+com\mycompany\interfileproject\DBConnection\DBConnection.class
+com\mycompany\interfileproject\JakartaRestConfiguration.class
+com\mycompany\interfileproject\Controller\BookController.class
